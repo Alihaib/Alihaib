@@ -1,4 +1,4 @@
-# Hi, I'm Ali Haib 👋
+# Hi, I'm Ali Heib 👋
 
 Welcome to my GitHub profile! I'm a second-year Software Engineering student at **Sami Shamoon College of Engineering**, Beer Sheva, Israel. I'm passionate about programming, algorithms, and solving real-world problems using technology. Here's a little bit about me and my work.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a second-year Software Engineering student at 
 
 ## 🚀 About Me
 
-- **Name:** Ali Haib
+- **Name:** Ali Heib
 - **Location:** Beer Sheva, Israel
 - **Email:** [Aleheeb1@gmail.com](mailto:Aleheeb1@gmail.com)
 - **Phone:** 052-621-4362
