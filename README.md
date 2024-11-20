@@ -1,6 +1,6 @@
 # Hi, I'm Ali Heib 👋
 
-Welcome to my GitHub profile! I'm a second-year Software Engineering student at **Sami Shamoon College of Engineering**, Beer Sheva, Israel. I'm passionate about programming, algorithms, and solving real-world problems using technology. Here's a little bit about me and my work.
+Welcome to my GitHub profile! I'm a third-year Software Engineering student at **Sami Shamoon College of Engineering**, Beer Sheva, Israel. I'm passionate about programming, algorithms, and solving real-world problems using technology. Here's a little bit about me and my work.
 
 ---
 
