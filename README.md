@@ -90,7 +90,6 @@ Working on a smart contract project deployed on the Ethereum testnet. The projec
 
 - networking in software engeineering 
 - numritic analyist 
-- databases 
 - Web Development with mvc and c#
 
 ---
